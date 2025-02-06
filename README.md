@@ -21,3 +21,4 @@ Dataset --> https://www.kaggle.com/datasets/techsash/waste-classification-data
   - Upgraded model architecture for better feature extraction.
   - Experimented with different optimizers and hyperparameter tuning.
   - Improved accuracy from 74% to 84%.
+  - Deployment for both Image and Real-time video classification using streamlit
